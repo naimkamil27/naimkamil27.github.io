@@ -11,8 +11,10 @@
   "dependencies": {
     "3": "^2.1.0",
     "-": "^0.0.1",
+    "@popperjs/core": "^2.11.7",
     "bootstrap": "^4.6.2",
     "bootstrap-vue": "^2.22.0",
+    "consola": "latest",
     "core-js": "^3.25.3",
     "jquery": "1.9.1",
     "nuxt": "^2.15.8",
