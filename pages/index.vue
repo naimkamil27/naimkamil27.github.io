@@ -13,6 +13,9 @@
           <a target="_blank" href="https://wa.me/60182084225"><i class='whatsapp bx bxl-whatsapp ml-4 mr-4'></i></a>
           <a target="_blank" href="mailto:nakikami27@gmail.com"><i class='gmail bx bxl-gmail'></i></a>
       </div>
+      <div class="text-center mt-3">
+        <a class="text btn" href="/about">About me</a>
+      </div>
     </div>
     <Projects class="project"/>  
   </div>
@@ -25,6 +28,26 @@ export default {
 }
 </script>
 <style scoped>
+
+a:hover {
+    color: black;
+}
+
+.btn {
+    background-color: gray;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 2px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: aqua;
+    color: black !important;
+}
 
 .linkedin, .whatsapp, .gmail {
   color: white;
