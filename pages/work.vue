@@ -5,6 +5,36 @@
         <div class="row">
             <div class="col-md-6 mb-3">
                 <div id="container">
+                    <img src="../assets/images/icompany.png" style="width:100%" alt="naim">
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <h1>iCompany</h1>
+                <p>
+                    <span style="color: grey;">Internship</span> <br>
+                    This software is designed to help small and medium-sized enterprises (SMEs) manage their financial and accounting needs more efficiently.
+                </p>
+                <div class="mt-4">
+                    <NuxtLink style="text-decoration: underline;" to="/projectdetails">See more</NuxtLink>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div id="container">
+                    <img src="../assets/images/alnaab.png" style="width:100%" alt="naim">
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <h1>Alna Ab</h1>
+                <p>
+                    <span style="color: grey;">Internship</span> <br>
+                    Ecommerce website built using Nuxt and Vue Js.
+                </p>
+                <div class="mt-4">
+                    <NuxtLink style="text-decoration: underline;" to="/projectdetails">See more</NuxtLink>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div id="container">
                     <img src="../assets/images/jomdobi.png" style="width:100%" alt="naim">
                 </div>
             </div>

@@ -4,6 +4,19 @@
         <div class="row">
             <div class="col-md-6 mb-4">
                 <NuxtLink to="/projectdetails">
+                    <img src="~/assets/images/icompany.png" style="width: 100%;" alt="">
+                </NuxtLink>
+                <h2 class="mt-3" style="font-family: 'Roboto Mono', monospace;">iCompany</h2>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">Website Development • Bug Fixes • Front End Development</h5>
+            </div>
+            <div class="col-md-6 mb-4">
+                <NuxtLink to="/projectdetails">
+                    <img src="~/assets/images/alnaab.png" style="width: 100%;" alt="">
+                </NuxtLink>
+                <h2 class="mt-3" style="font-family: 'Roboto Mono', monospace;">Alna Ab</h2>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">Website Development • Front End Development</h5></div>
+            <div class="col-md-6 mb-4">
+                <NuxtLink to="/projectdetails">
                     <img src="~/assets/images/jomdentist.png" style="width: 100%;" alt="">
                 </NuxtLink>
                 <h2 class="mt-3" style="font-family: 'Roboto Mono', monospace;">JomDentist</h2>
